@@ -1,3 +1,3 @@
 Hello World !
 This is an innovative file.
-This is a new linee.
+This is a new line.
